@@ -4,46 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cde2cd786af427d3",
+        "id": "0eaab6db23c59e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "f5309422649346cc",
+            "id": "435d3c8f9b9fdd50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome Folder/Epic note.md",
+                "file": "Awesome Folder/This is a new note.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1c78b5dc22b1ec88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "This is a new note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a7deed778dee019d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8360773063875e03",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -112,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "This is a new note.md",
+                "file": "Awesome Folder/This is a new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "This is a new note.md",
+                "file": "Awesome Folder/This is a new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is a new note.md"
+                "file": "Awesome Folder/This is a new note.md"
               }
             }
           }
@@ -173,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c78b5dc22b1ec88",
+  "active": "435d3c8f9b9fdd50",
   "lastOpenFiles": [
     "Awesome Folder/Epic note.md",
-    "This is a new note.md",
+    "More test files to add.md",
+    "Awesome Folder/This is a new note.md",
+    "Folder for Folder's folder",
+    "Folder for Duncan's Duncan",
+    "Folder for Duncan",
     "Welcome.md",
     "Awesome Folder"
   ]
