@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c78b5dc22b1ec88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is a new note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a7deed778dee019d",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Folder/Epic note.md",
+                "file": "This is a new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Folder/Epic note.md",
+                "file": "This is a new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Folder/Epic note.md"
+                "file": "This is a new note.md"
               }
             }
           }
@@ -160,10 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5309422649346cc",
+  "active": "1c78b5dc22b1ec88",
   "lastOpenFiles": [
-    "Welcome.md",
     "Awesome Folder/Epic note.md",
+    "This is a new note.md",
+    "Welcome.md",
     "Awesome Folder"
   ]
 }
