@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "d8d8989153a29c55",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde2cd786af427d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5309422649346cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Awesome Folder/Epic note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7deed778dee019d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8360773063875e03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b569d1d38acc2a25",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e15881fc5a2052",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537c9e972c232d60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a59087e26cf3b437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f50cc03e9056c1ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31e74a8c3d66d45d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed72c9db3188a89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db53cba79bfffdb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Awesome Folder/Epic note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e97e96881dc37ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Awesome Folder/Epic note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d88b18a4a1738e90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f0b472623a2fea6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Awesome Folder/Epic note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f5309422649346cc",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Awesome Folder/Epic note.md",
+    "Awesome Folder"
+  ]
+}
